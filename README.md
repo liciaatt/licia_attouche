@@ -1,23 +1,21 @@
 # Bonjour, je suis Licia Attouche 👋
 
-### Data Analyst & Data Engineer | Python · SQL · Airflow · Docker · GCP
+### Data Analyst & Data Scientist | Python · SQL · ML · IA · GCP
 
-Je suis passionnée par la donnée et en transition vers le Data Engineering.
-Avec 3 ans d'expérience chez Orange et AXA Banque, je construis des pipelines
-de données robustes et des solutions data modernes.
+Je suis passionnée par la donnée, avec 3 ans d'expérience chez Orange et AXA Banque en tant que Data Analyst et Data Scientist. J'analyse, modélise et valorise les données pour produire des insights business, tout en développant mes compétences en Data Engineering pour maîtriser toute la chaîne de la donnée.
 
 ---
 
 ## 🛠️ Stack technique
-
-**Data Engineering**
-`Apache Airflow` `Docker` `PostgreSQL` `CI/CD GitHub Actions`
 
 **Data & BI**
 `BigQuery` `Snowflake` `Power BI` `Tableau` `Looker Studio`
 
 **Machine Learning**
 `Scikit-learn` `PyTorch` `TensorFlow` `NLP` `LLM`
+
+**Data Engineering**
+`Apache Airflow` `Docker` `PostgreSQL` `CI/CD GitHub Actions`
 
 **Cloud & Langages**
 `GCP` `Python` `SQL` `Git`
@@ -30,12 +28,6 @@ de données robustes et des solutions data modernes.
 |--------|-------------|-------|
 | [Weather Pipeline](https://github.com/liciaatt/weather-pipeline-airflow) | Pipeline ETL météo automatisé | Airflow · Docker · PostgreSQL |
 | [MLOps Breast Cancer](https://github.com/liciaatt/mlops-breast-cancer) | Pipeline ML en production | Python · ML |
-
----
-
-## 📊 GitHub Stats
-
-![Licia's GitHub stats](https://github-readme-stats.vercel.app/api?username=liciaatt&show_icons=true&theme=default)
 
 ---
 
